@@ -32,3 +32,11 @@ jobs:
           echo "Error: Paragraph contains only $word_count words, less than 100."
           exit 1
         fi
+
+         # Look for the word 'fett'
+        if grep -q 'fett' README.md; then
+          echo "Section 'fett' found."
+        else
+          echo "Error: fett' not found."
+          exit 1
+        fi
