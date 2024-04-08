@@ -5,3 +5,9 @@ Heute habe ich meinen **tollen Vortrag** vorbereitet. Zunächst habe ich *auf Pa
 Nächstes Mal werde ich folgendes Tun:
 - [ ] Arbeitspapier sorgfältig lesen
 - [ ] Zusammenfassung dazu schreiben
+
+### 8.4.2024
+
+** Ich will mal etwas fett drucken**
+* Und kursiv *
+* -_[_]_* 
